@@ -1,0 +1,7 @@
+Package: com.ezccmodules.control-center.ezringer
+Name: EzRespring
+Version: 1.0
+Architecture: iphoneos-arm
+Description: A Control Center Module
+Author: 5px
+Section: Control Center (Modules)
