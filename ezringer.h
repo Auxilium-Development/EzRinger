@@ -1,6 +1,6 @@
 #import <ControlCenterUIKit/CCUIToggleModule.h>
 
-@interface EzRespring : CCUIToggleModule
-@property (nonatomic, assign, readwrite) BOOL ezrespring;
+@interface EzRinger : CCUIToggleModule
+@property (nonatomic, assign, readwrite) BOOL ezringer;
 @end
 
